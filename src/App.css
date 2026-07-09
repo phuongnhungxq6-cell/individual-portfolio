@@ -342,9 +342,28 @@ box-shadow:0 20px 40px rgba(255,92,138,.45);
 
 .card p{
 
+  background:#fff8fc;
+
+  border-left:5px solid #ff9fc7;
+
+  border-radius:15px;
+
+  padding:14px 18px;
+
   line-height:1.8;
 
-  margin-bottom:25px;
+  margin-bottom:16px;
+
+  transition:.35s;
+
+}
+.card p:hover{
+
+  transform:translateX(8px);
+
+  background:#fff1f8;
+
+  box-shadow:0 8px 20px rgba(255,160,200,.25);
 
 }
 
@@ -379,6 +398,23 @@ box-shadow:0 20px 40px rgba(255,92,138,.45);
   box-shadow:0 10px 25px rgba(255,92,138,.4);
 
 }
+.card strong{
+  color:#ff5c8a;
+  font-size:16px;
+}
+
+.card p{
+  margin-bottom:18px;
+}
+
+.card p:last-of-type{
+  margin-bottom:25px;
+}
+
+.card br{
+  line-height:2;
+}
+
 
 /* ==========================
    CONCLUSION

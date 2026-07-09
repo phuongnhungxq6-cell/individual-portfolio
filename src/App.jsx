@@ -318,10 +318,32 @@ function App() {
 
             <h3>📘 Máy tính và các thiết bị ngoại vi</h3>
 
-            <p>
-              Tìm hiểu cấu tạo máy tính, thiết bị nhập, thiết bị xuất,
-              bộ nhớ và các thành phần cơ bản của hệ thống máy tính.
-            </p>
+           <p>
+  <strong>📝 Mô tả</strong><br />
+  Tìm hiểu cấu tạo máy tính, thiết bị nhập, thiết bị xuất, bộ nhớ và các thành phần cơ bản của hệ thống máy tính.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Hiểu cấu tạo và chức năng của các thành phần phần cứng, từ đó nắm được nguyên lý hoạt động của máy tính.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu tài liệu môn học.<br />
+  • Tìm hiểu từng thiết bị phần cứng.<br />
+  • Hoàn thành bài tập và tổng hợp báo cáo.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Nhận biết được các thành phần của máy tính và hiểu vai trò của từng thiết bị trong hệ thống.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Google Docs • ChatGPT • Google Search
+</p>
 
             <a
               href="https://docs.google.com/document/d/1ABVfemrajvIJm8stOieTGr8dGyzF9n_z/edit?usp=drivesdk&ouid=111641925123829400531&rtpof=true&sd=true"
@@ -340,9 +362,31 @@ function App() {
             <h3>📊 Khai thác dữ liệu và thông tin</h3>
 
             <p>
-              Tìm hiểu cách thu thập, xử lý và khai thác dữ liệu để tạo
-              ra thông tin có giá trị.
-            </p>
+  <strong>📝 Mô tả</strong><br />
+  Tìm hiểu cách thu thập, xử lý và khai thác dữ liệu để tạo ra thông tin có giá trị.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Hiểu sự khác nhau giữa dữ liệu và thông tin, biết cách tìm kiếm và đánh giá nguồn dữ liệu.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu tài liệu môn học.<br />
+  • Phân tích ví dụ thực tế.<br />
+  • Hoàn thành bài tập trên Google Docs.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Hiểu được quy trình xử lý dữ liệu và cách khai thác thông tin phục vụ học tập.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Google Docs • ChatGPT • Google Search
+</p>
 
             <a
               href="https://docs.google.com/document/d/1Innk4nNyGopqw8WrCsTIRbzrEga1it8I/edit?usp=drivesdk&ouid=111641925123829400531&rtpof=true&sd=true"
@@ -361,9 +405,31 @@ function App() {
             <h3>🤖 Tổng quan về trí tuệ nhân tạo</h3>
 
             <p>
-              Khái niệm AI, các ứng dụng phổ biến và vai trò của trí tuệ
-              nhân tạo trong học tập và cuộc sống.
-            </p>
+  <strong>📝 Mô tả</strong><br />
+  Khái niệm AI, các ứng dụng phổ biến và vai trò của trí tuệ nhân tạo trong học tập và cuộc sống.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Hiểu khái niệm trí tuệ nhân tạo, nhận biết các lĩnh vực ứng dụng và biết cách sử dụng AI hỗ trợ học tập một cách hiệu quả.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu tài liệu về AI.<br />
+  • Tìm hiểu các công cụ AI phổ biến.<br />
+  • Phân tích ví dụ thực tế và hoàn thành bài tập.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Hiểu được vai trò của AI trong học tập và cuộc sống, đồng thời biết ứng dụng AI một cách có trách nhiệm.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Google Docs • ChatGPT • Google Search
+</p>
 
             <a
               href="https://docs.google.com/document/d/1ErcPzUPIqBvFBALWfIRR7vg-9TPt8irJ/edit?usp=drivesdk&ouid=111641925123829400531&rtpof=true&sd=true"
@@ -382,9 +448,31 @@ function App() {
             <h3>💬 Giao tiếp và hợp tác trong môi trường số</h3>
 
             <p>
-              Tìm hiểu các hình thức giao tiếp trực tuyến, làm việc nhóm
-              và hợp tác trên các nền tảng số.
-            </p>
+  <strong>📝 Mô tả</strong><br />
+  Tìm hiểu các hình thức giao tiếp trực tuyến, làm việc nhóm và hợp tác trên các nền tảng số.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Rèn luyện kỹ năng giao tiếp và hợp tác trong môi trường số, đồng thời biết sử dụng các nền tảng trực tuyến để làm việc nhóm hiệu quả.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu các công cụ giao tiếp và cộng tác trực tuyến.<br />
+  • Tìm hiểu cách chia sẻ tài liệu và làm việc nhóm trên môi trường số.<br />
+  • Hoàn thành bài tập theo yêu cầu của học phần.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Hiểu được vai trò của giao tiếp số, biết sử dụng các công cụ hỗ trợ làm việc nhóm và nâng cao kỹ năng hợp tác trực tuyến.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Google Docs • Google Drive • ChatGPT
+</p>
 
             <a
               href="https://drive.google.com/file/d/185sdkW9L-vTRaCt1vhuXFYdyGF4_YJ1l/view?usp=drivesdk"
@@ -403,8 +491,30 @@ function App() {
             <h3>🎨 Sáng tạo nội dung số</h3>
 
 <p>
-  Thiết kế nội dung số bằng các công cụ hiện đại,
-  đảm bảo tính sáng tạo và tính thẩm mỹ.
+  <strong>📝 Mô tả</strong><br />
+  Tìm hiểu quy trình sáng tạo nội dung số và ứng dụng các công cụ hiện đại để thiết kế sản phẩm có tính thẩm mỹ và phù hợp với mục đích sử dụng.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Phát triển khả năng sáng tạo nội dung số, biết lựa chọn công cụ phù hợp và tạo ra sản phẩm trực quan, hấp dẫn.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu các nguyên tắc thiết kế nội dung số.<br />
+  • Tìm hiểu và sử dụng các công cụ hỗ trợ sáng tạo.<br />
+  • Thiết kế, chỉnh sửa và hoàn thiện sản phẩm theo yêu cầu.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Nâng cao kỹ năng thiết kế nội dung số, biết ứng dụng công nghệ và AI để tạo ra sản phẩm sáng tạo, rõ ràng và có tính thẩm mỹ.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Canva • Google Docs • ChatGPT
 </p>
             <a
               href="https://docs.google.com/document/d/1JtnFiTuarqHa9urlwtlYrkt3_CPUv4nr/edit?usp=drivesdk&ouid=111641925123829400531&rtpof=true&sd=true"
@@ -423,9 +533,31 @@ function App() {
             <h3>🛡️ An toàn và liêm chính học thuật trong môi trường số</h3>
 
             <p>
-              Tìm hiểu đạo đức số, bảo vệ dữ liệu cá nhân và sử dụng AI
-              có trách nhiệm trong học tập.
-            </p>
+  <strong>📝 Mô tả</strong><br />
+  Tìm hiểu về an toàn thông tin, bảo vệ dữ liệu cá nhân, đạo đức số và nguyên tắc liêm chính học thuật khi sử dụng công nghệ và AI.
+</p>
+
+<p>
+  <strong>🎯 Mục tiêu</strong><br />
+  Nâng cao nhận thức về việc sử dụng công nghệ số và trí tuệ nhân tạo một cách an toàn, trung thực, có trách nhiệm và đúng chuẩn mực đạo đức học thuật.
+</p>
+
+<p>
+  <strong>⚙️ Quá trình thực hiện</strong><br />
+  • Nghiên cứu các quy định về an toàn thông tin và liêm chính học thuật.<br />
+  • Tìm hiểu các rủi ro khi sử dụng AI và môi trường số.<br />
+  • Phân tích tình huống thực tế và hoàn thành bài tập theo yêu cầu.
+</p>
+
+<p>
+  <strong>✨ Kết quả đạt được</strong><br />
+  Hiểu được tầm quan trọng của việc bảo vệ dữ liệu cá nhân, tôn trọng bản quyền và sử dụng AI một cách có trách nhiệm trong học tập cũng như cuộc sống.
+</p>
+
+<p>
+  <strong>💻 Công cụ sử dụng</strong><br />
+  Google Docs • ChatGPT • Google Search
+</p>
 
             <a
               href="https://docs.google.com/document/d/19ICOzkn5-A9q_m1fdxH0RRMZtENSgBk3/edit?usp=drivesdk&ouid=111641925123829400531&rtpof=true&sd=true"
